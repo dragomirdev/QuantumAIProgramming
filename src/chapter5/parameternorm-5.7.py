@@ -145,6 +145,7 @@ print("\nTrained Parameters:", theta_trained)
 
 plt.figure(figsize=(15, 4))
 
+
 # Loss
 plt.subplot(1, 3, 1)
 plt.plot(loss_history)
